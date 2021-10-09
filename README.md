@@ -1,1 +1,1 @@
-Appleloopmusic is a South African based record label.
+# We are Apple Loop Music
