@@ -2,7 +2,7 @@ const path = require("path")
 
 module.exports = {
   siteMetadata: {
-    description: "Apple Loop Music",
+    description: "Music is everything.",
     siteUrl: "https://www.appleloopmusic.com",
     title: "Apple Loop Music",
   },
